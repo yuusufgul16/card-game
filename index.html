@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find It - Main Menu</title>
+    <!-- Google Fonts'tan yazı tipi ekleme -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="menu-container">
+        <h1>Main Menu</h1>
+        <button id="startButton">Start Game</button>
+        <button id="instructionsButton">Instructions</button>
+        <button id="aboutButton">About Me</button>
+    </div>
+
+    <!-- Modal Yapısı -->
+    <div id="aboutModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Find me on:</p>
+            <a href="https://www.instagram.com/yyusufgull/?hl=tr" target="_blank">
+                <i class="fab fa-instagram"></i> Instagram
+            </a><br>
+            <a href="https://www.linkedin.com/in/yusuf-g%C3%BCl-b63a8323a/" target="_blank">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+        </div>
+    </div>
+    <script src="menu.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find It - Instructions</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="instructions-container">
+        <h1>Instructions</h1>
+        <p>The cards, which are shuffled and placed face down, are opened in pairs by each person in turn. The aim is to find the same card as the first one. The more matches found, the more useful it is, and that person wins the game.</p>
+        
+        <!-- Otomatik başlayan ve sürekli tekrarlayan video -->
+        <video width="500" height="500" autoplay loop muted>
+            <source src="videos/video.mp4" type="video/mp4"> <!-- Yerel veya çevrimiçi video yolu -->
+            Your browser does not support the video tag.
+        </video>
+        
+        <button onclick="goBack()">
+            <i class="fas fa-arrow-left"></i> <!-- Geri ikonu -->
+        </button>
+    </div>
+    <script>
+        function goBack() {
+            window.location.href = 'index.html'; // Ana menüye dön
+        }
+    </script>
+</body>
+</html>
