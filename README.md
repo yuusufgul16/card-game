@@ -26,21 +26,6 @@ Find It is a fun and engaging memory card game designed to test and improve your
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details. 
 
   
-## Installation 
-
-To run this project locally, follow these steps:
-1. Clone the repository:
-```bash 
-  git clone https://github.com/yusufgul16/find-it.git
-
-```
-
-2. Navigate to the project folder:
-```bash 
-  cd find-it
-
-```
-3. Open index.html in your web browser to start playing.
 
 
 ## Demo
