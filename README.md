@@ -20,13 +20,6 @@ Find It is a fun and engaging memory card game designed to test and improve your
 
   ## Instructions
   To learn more about how to play, click on the Instructions button in the main menu. A video tutorial is also available to help you get started.
-  
-## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details. 
-
-  
-
 
 ## Demo
 https://yuusufgul16.github.io/card-game/
@@ -35,3 +28,7 @@ https://yuusufgul16.github.io/card-game/
 ![](readme-images/mainmenu.PNG) 
 ![](readme-images/intro.PNG) 
 ![](readme-images/game.PNG) 
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details. 
