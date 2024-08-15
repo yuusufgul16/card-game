@@ -41,3 +41,10 @@ To run this project locally, follow these steps:
 
 ```
 3. Open index.html in your web browser to start playing.
+
+
+## Demo
+https://yuusufgul16.github.io/card-game/
+
+## Screenshots
+![] (readme-images/intro.png) 
