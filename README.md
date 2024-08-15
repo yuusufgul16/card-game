@@ -47,4 +47,6 @@ To run this project locally, follow these steps:
 https://yuusufgul16.github.io/card-game/
 
 ## Screenshots
+![](readme-images/mainmenu.PNG) 
 ![](readme-images/intro.PNG) 
+![](readme-images/game.PNG) 
